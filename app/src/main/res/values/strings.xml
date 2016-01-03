@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidAutoStartUp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="question">
+        <item>Annenizin kizlik soyadi</item>
+        <item>En sevdiginiz hayvan</item>
+        <item>En sevdiginiz yiyecek</item>
+    </string-array>
+
+</resources>
